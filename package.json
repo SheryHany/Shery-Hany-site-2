@@ -1,0 +1,55 @@
+{
+  "name": "goodreads",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.17",
+    "@fortawesome/free-solid-svg-icons": "^5.8.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "i": "^0.3.6",
+    "node-sass": "^4.11.0",
+    "npm": "^6.9.0",
+    "react": "^16.8.5",
+    "react-bootstrap": "^1.0.0-beta.6",
+    "react-dom": "^16.8.5",
+    "react-fontawesome": "^1.6.1",
+    "react-form-simple-schema": "0.0.3",
+    "react-rater": "^5.0.5",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "simpl-schema": "^1.5.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaniaG/Goodreads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaniaG/Goodreads/issues"
+  },
+  "homepage": "https://github.com/RaniaG/Goodreads#readme"
+}
